@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Spring Boot & Angular Specialist | AI Integration</h3>
 
 <p align="center">
-  <a href="[https://linkedin.com/in/jasser-abaidi](https://www.linkedin.com/in/jasser-abaidi-b082b9296/)">
+  <a href="https://www.linkedin.com/in/jasser-abaidi-b082b9296">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:jasser.abaidi@esprit.tn">
@@ -86,7 +86,7 @@ Infrastructure: Docker, Docker Compose, MySQL, Nginx
 
 ## 🔗 Connect With Me
 
-- **LinkedIn**: [linkedin.com/in/jasser-abaidi](https://linkedin.com/in/jasser-abaidi)
+- **LinkedIn**: [linkedin.com/in/jasser-abaidi](https://www.linkedin.com/in/jasser-abaidi-b082b9296)
 - **Email**: [jasser.abaidi@esprit.tn](mailto:jasser.abaidi@esprit.tn)
 - **Portfolio**: [jasserabaidi.github.io](https://jasserabaidi.github.io)
 - **GitHub**: [github.com/Jasserabaidi](https://github.com/Jasserabaidi)
