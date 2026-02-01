@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer | Spring Boot & Angular Specialist | AI Integration</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/jasser-abaidi">
+  <a href="[https://linkedin.com/in/jasser-abaidi](https://www.linkedin.com/in/jasser-abaidi-b082b9296/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:jasser.abaidi@esprit.tn">
@@ -77,3 +77,40 @@ I'm a **Computer Engineering student at ESPRIT** with a strong focus on building
 - ✅ **Automated trading strategies** based on grid price arbitrage
 
 ### Technologies Used:
+Frontend: Angular 17, Chart.js, RxJS, WebSocket
+Backend: Spring Boot 3, JWT, Spring Security, REST APIs
+AI/ML: Python, Flask, Scikit-learn, Random Forest
+Infrastructure: Docker, Docker Compose, MySQL, Nginx
+
+text
+
+[🚀 View Project Repository →](https://github.com/Jasserabaidi/nious)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jasserabaidi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasserabaidi&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" width="45%">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jasserabaidi&color=blue&style=flat-square" alt="Profile Views">
+  <img src="https://img.shields.io/github/followers/Jasserabaidi?style=social" alt="GitHub Followers">
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+- **LinkedIn**: [linkedin.com/in/jasser-abaidi](https://linkedin.com/in/jasser-abaidi)
+- **Email**: [jasser.abaidi@esprit.tn](mailto:jasser.abaidi@esprit.tn)
+- **Portfolio**: [jasserabaidi.github.io](https://jasserabaidi.github.io)
+- **GitHub**: [github.com/Jasserabaidi](https://github.com/Jasserabaidi)
+
+---
+
+> ⚡ **Building enterprise-grade software systems with Spring Boot, Angular, and AI integration while seeking innovative PFE opportunities in Europe.**
+
+⭐ *Thank you for visiting my profile!*
