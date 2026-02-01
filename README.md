@@ -82,25 +82,7 @@ Backend: Spring Boot 3, JWT, Spring Security, REST APIs
 AI/ML: Python, Flask, Scikit-learn, Random Forest
 Infrastructure: Docker, Docker Compose, MySQL, Nginx
 
-text
 
-[🚀 View Project Repository →](https://github.com/Jasserabaidi/nious)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jasserabaidi&show_icons=true&theme=dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jasserabaidi&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" width="45%">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Jasserabaidi&color=blue&style=flat-square" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/Jasserabaidi?style=social" alt="GitHub Followers">
-</p>
-
----
 
 ## 🔗 Connect With Me
 
