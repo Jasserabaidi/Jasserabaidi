@@ -88,7 +88,7 @@ Infrastructure: Docker, Docker Compose, MySQL, Nginx
 
 - **LinkedIn**: [linkedin.com/in/jasser-abaidi](https://www.linkedin.com/in/jasser-abaidi-b082b9296)
 - **Email**: [jasser.abaidi@esprit.tn](mailto:jasser.abaidi@esprit.tn)
-- **Portfolio**: [jasserabaidi.github.io](https://jasserabaidi.github.io)
+- **Portfolio**: [AbaidiJasser](https://abaidijasser.vercel.app/)
 - **GitHub**: [github.com/Jasserabaidi](https://github.com/Jasserabaidi)
 
 ---
