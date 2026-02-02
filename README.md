@@ -8,7 +8,7 @@
   <a href="mailto:jasser.abaidi@esprit.tn">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://jasserabaidi.github.io">
+  <a href="https://abaidijasser.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://github.com/Jasserabaidi">
