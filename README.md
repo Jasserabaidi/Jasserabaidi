@@ -27,7 +27,7 @@ I'm a **Computer Engineering student at ESPRIT** with a strong focus on building
 🔭 **Focusing on:** Enterprise Java development, real-time data visualization, and predictive AI systems  
 🌱 **Passionate about:** Microservices architecture, containerization, and AI integration  
 💼 **AWS Certified Cloud Practitioner**  
-📍 **Based in** Marburg, Germany 🇩🇪 | **Open to opportunities in** Germany,All Europe countries or Remote
+📍 **Based in** Marburg, Germany 🇩🇪 |
 
 ---
 
