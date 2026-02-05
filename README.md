@@ -65,7 +65,7 @@ I'm a **Computer Engineering student at ESPRIT** with a strong focus on building
 
 ---
 
-## 🏆 Featured Project: **NIOUS**
+## 🏆 Featured Project: 
 
 **Intelligent BESS Monitoring Platform** - A complete microservices system for battery energy storage monitoring.
 
