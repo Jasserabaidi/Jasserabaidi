@@ -22,12 +22,11 @@
 
 I'm a **Computer Engineering student at ESPRIT** with a strong focus on building **production-ready software systems**. My expertise lies in creating **microservices architectures** with Spring Boot, developing **real-time Angular dashboards**, and integrating **AI/ML solutions** into enterprise applications.
 
-🎯 **Currently seeking:** Final Year Internship (PFE) starting 2025
 
 🔭 **Focusing on:** Enterprise Java development, real-time data visualization, and predictive AI systems  
 🌱 **Passionate about:** Microservices architecture, containerization, and AI integration  
 💼 **AWS Certified Cloud Practitioner**  
-📍 **Based in** Marburg, Germany 🇩🇪 |
+📍 **Based in** Cölbe, Germany 🇩🇪 |
 
 ---
 
@@ -93,6 +92,6 @@ Infrastructure: Docker, Docker Compose, MySQL, Nginx
 
 ---
 
-> ⚡ **Building enterprise-grade software systems with Spring Boot, Angular, and AI integration while seeking innovative PFE opportunities in Europe.**
+> ⚡ **Building enterprise-grade software systems with Spring Boot, Angular, and AI integration .**
 
 ⭐ *Thank you for visiting my profile!*
