@@ -68,7 +68,8 @@ and integrating **AI/ML solutions** into enterprise applications.
 
 ## 🏆 Featured Project: 
 
-**Intelligent BESS Monitoring Platform** - A complete microservices system for battery energy storage monitoring.
+**Intelligent BESS Monitoring Platform** 
+A complete microservices system for battery energy storage monitoring.
 
 ### Key Features:
 - ✅ **Real-time dashboard** with 8 interactive visualizations (WebSocket updates <500ms)
