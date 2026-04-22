@@ -21,7 +21,8 @@
 ## 💫 About Me
 
 I'm a **Computer Engineering student at ESPRIT** with a strong focus on building **production-ready software systems**. 
-My expertise lies in creating **microservices architectures** with Spring Boot, developing **real-time Angular dashboards**, and integrating **AI/ML solutions** into enterprise applications.
+My expertise lies in creating **microservices architectures** with Spring Boot, developing **real-time Angular dashboards**, 
+and integrating **AI/ML solutions** into enterprise applications.
 
 
 🔭 **Focusing on:** Enterprise Java development, real-time data visualization, and predictive AI systems  
